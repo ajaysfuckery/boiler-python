@@ -7,9 +7,6 @@ This tool can be used on any OS with Python3
 
 Requirements~
 Python3
-C (MinGW)
-Bloodshed Dev-cpp
-
 
 Instructions~<br/>
 <b><i>Python3</i></b>
