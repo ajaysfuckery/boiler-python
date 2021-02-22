@@ -1,4 +1,4 @@
-# boiler-python-
+# boiler-python
 the python version of boiler 
 
 A tool used for creating boilerplate code for HTML and C files.
